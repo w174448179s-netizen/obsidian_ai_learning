@@ -33,7 +33,7 @@
   "openAIProxyBaseUrl": "",
   "openAIEmbeddingProxyBaseUrl": "",
   "stream": true,
-  "defaultSaveFolder": "ai_learning/daily",
+  "defaultSaveFolder": "ai学习/📝 每日日志",
   "defaultConversationTag": "ai学习草稿",
   "autosaveChat": true,
   "generateAIChatTitleOnSave": true,
@@ -301,7 +301,7 @@
       "enabled": true,
       "isBuiltIn": true,
       "apiKey": "",
-      "temperature": 0.29
+      "temperature": 0.7
     },
     {
       "name": "deepseek-reasoner",
@@ -500,10 +500,10 @@
   "quickCommandIncludeNoteContext": true,
   "autoIncludeTextSelection": false,
   "autoAddSelectionToContext": true,
-  "autoAcceptEdits": false,
+  "autoAcceptEdits": true,
   "diffViewMode": "split",
   "userSystemPromptsFolder": "copilot/system-prompts",
-  "defaultSystemPromptTitle": "你是AI应用开发学习笔记助手，全程只用中文回答。",
+  "defaultSystemPromptTitle": "你是AI应用开发学习导师兼笔记助手。",
   "autoCompactThreshold": 128000,
   "convertedDocOutputFolder": "",
   "_keychainOnly": true,

@@ -1,19 +1,8 @@
 # ---------------- Obsidian 缓存/工作区/垃圾文件 ----------------
-.obsidian/cache/
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/logs/
-.obsidian/trash/
-.obsidian/plugins/*/.hotreload
-.obsidian/plugins/*/node_modules/
-.obsidian/plugins/*/.git
-.obsidian/plugins/*/package-lock.json
-.obsidian/plugins/*/yarn.lock
-.obsidian/plugins/*/dist/
+.Trash/*
+.obsidian/*
 
-# 本地窗口布局、会话缓存
-.obsidian/sessions/
-.obsidian/backup/
+
 
 # ---------------- 系统生成文件 ----------------
 # Mac
