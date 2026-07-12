@@ -1,6 +1,7 @@
 # ---------------- Obsidian 缓存/工作区/垃圾文件 ----------------
 .Trash/*
 .obsidian/*
+.obsidian/plugins/copilot/data.json
 
 
 
@@ -35,3 +36,4 @@ desktop.ini
 */.git
 */.gitignore
 */.gitmodules
+.obsidian/plugins/copilot/data.json
